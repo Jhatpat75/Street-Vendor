@@ -1,0 +1,1 @@
+git clone https://github.com/DevExpo/street-vendor-app.git
